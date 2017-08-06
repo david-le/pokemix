@@ -581,13 +581,13 @@ a.navbar-brand.our_logo{
 	display:inline-block;
 }
 .header_top_menu .call_us_text a i{
-	color:#e7a331;
+	color:#EF26A0;
 	margin-right:10px;
 	font-size:18px;
 }
 
 .head_top_social a{
-    color: #e7a331;
+    color: #EF26A0;
     padding: 5px;
     display: inline-block;
 }
@@ -655,7 +655,7 @@ a.navbar-brand.our_logo{
 /* slider section */
 
 .slider{
-	background:url(../images/bannerbg.jpg) center center no-repeat;
+	background:url(../images/banner1bg.jpg) center center no-repeat;
 	background-size:cover;
 }
 .main_slider {
@@ -708,7 +708,7 @@ font-size: 6rem;
 
 /* Features section css */
 .features{
-	background:url(../images/ftbg.jpg) center center no-repeat;
+	background:url(../images/whatspokebg.jpg) left center no-repeat;
 	-moz-background-size: cover;
 	-webkit-background-size: cover;
 	-o-background-size: cover;
@@ -717,19 +717,19 @@ font-size: 6rem;
 	overflow: hidden;
 }
 .main_features_content_area{
-	padding:120px 0px;
+	padding:100px 0px;
 	display:inline-block;
 }
 .main_features_content{
-	background:url(../images/ft.png) right center no-repeat;
-	padding:40px;
+	background:url(../images/whatspoke.png) right center no-repeat;
+	padding:60px;
 	overflow:hidden;
 }
 
 .single_features_text{
-	background:url(../images/textbg.jpg) center center no-repeat;
+	background:url(../images/textbg.jpg) left center no-repeat;
 	padding:30px;
-        background-size:cover;
+  background-size:cover;
 }
 
 /* Portfolio Section css */
